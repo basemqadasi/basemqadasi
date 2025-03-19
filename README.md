@@ -1,7 +1,13 @@
 ## Hi there 👋
+My name is **Basem** and I am interested in:
+- **Geophysics:** Earthaqake Seismology | DAS | Induced Seismicity | Seismic Monitoring | FWI | Exploration Geophysics.
+- **Deep Learning:** BiLSTM | CNN | Neural Operators | GANs | Scientific ML.
+- **Coding:** Python | Jupyter Notebook.
 
+- 🔭 I’m currently a Ph.D. candidate at CPG-KFUPM, Saudi Arabia.
+- 🌱 I’m currently working on processing Distributed Acoustic Sensing data for seismic monitoring.  
 <!--
-**basemqadasi/basemqadasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bqadas/bqadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
