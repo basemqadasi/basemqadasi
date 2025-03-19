@@ -4,6 +4,7 @@ My name is **Basem** and I am interested in:
 - **Deep Learning:** BiLSTM | CNN | Neural Operators | GANs | Scientific ML.
 - **Coding:** Python | Jupyter Notebook.
 
+## About Me 😊
 - 🔭 I’m currently a Ph.D. candidate at CPG-KFUPM, Saudi Arabia.
 - 🌱 I’m currently working on processing Distributed Acoustic Sensing data for seismic monitoring.  
 <!--
