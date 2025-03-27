@@ -1,7 +1,7 @@
 ## Hi there 👋 😊
 My name is **Basem** and I am interested in:
 - **Geophysics:** Earthaqake Seismology | DAS | Induced Seismicity| Seismic Monitoring | FWI | Exploration Geophysics.
-- **Deep Learning:** BiLSTM | CNN | Neural Operators | GANs | Scientific ML.
+- **Deep Learning:**  | CNN | Neural Operators | GANs | Scientific ML.
 - **Coding:** Python | Jupyter Notebook.
 
 ## I’m currently: 
