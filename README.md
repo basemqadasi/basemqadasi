@@ -4,9 +4,8 @@ My name is **Basem** and I am interested in:
 - **Deep Learning:** BiLSTM | CNN | Neural Operators | GANs | Scientific ML.
 - **Coding:** Python | Jupyter Notebook.
 
-## I’m currently: 
-- 🔭  A Ph.D. candidate in Geophysics at CPG-KFUPM, Saudi Arabia.
-- 🌱  Working on processing Distributed Acoustic Sensing data for seismic monitoring.  
+## I’m currently:
+- 🔭  A Ph.D. candidate in Geophysics at CPG-KFUPM, Saudi Arabia, working on processing Distributed Acoustic Sensing data for seismic monitoring.
 <!--
 **bqadas/bqadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
