@@ -2,7 +2,7 @@
 My name is **Basem** and I am interested in:
 - **Geophysics:** Earthquake Seismology | DAS | Induced Seismicity| Seismic Monitoring | FWI | Exploration Geophysics.
 - **Deep Learning:** BiLSTM | CNN | Neural Operators | GANs | Scientific ML.
-- **Coding:** Python | Jupyter Notebook.
+- **Coding:** Python | Jupyter Notebook | Git | Pytorch |.
 
 ## I’m currently:
 - 🔭  A Ph.D. candidate in Geophysics at CPG-KFUPM, Saudi Arabia, working on processing Distributed Acoustic Sensing data for seismic monitoring.
